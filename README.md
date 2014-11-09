@@ -1,7 +1,7 @@
 turing-stuff
 ============
 
-Random stuff done in turing. Everything is licensed under MIT
+Random stuff done in turing. Everything is licensed under MIT. If you are to use any part of the code contained within the files in this repository, you must copy and paste the following comment snippet before the header.
 
 ```csharp
 /*
